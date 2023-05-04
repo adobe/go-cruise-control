@@ -1,7 +1,7 @@
 SHELL = /usr/bin/env bash -o pipefail
 .SHELLFLAGS = -ec
 
-CRUISE_CONTROL_VERSION ?= 2.5.118-adbe-20230419-rc
+CRUISE_CONTROL_VERSION ?= 2.5.118-adbe-20230504
 export CRUISE_CONTROL_IMAGE ?= docker.io/adobe/cruise-control:$(CRUISE_CONTROL_VERSION)
 
 ##@ General
