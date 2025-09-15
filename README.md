@@ -1,3 +1,6 @@
+**⚠️ This repo is now archived as the code has been moved in-tree to: https://github.com/adobe/koperator/tree/master/third_party/github.com/banzaicloud/go-cruise-control**
+
+
 # go-cruise-control
 
 [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/banzaicloud/go-cruise-control/ci.yaml?style=flat-square)](https://github.com/banzaicloud/go-cruise-control/actions/workflows/ci.yaml)
